@@ -1,5 +1,5 @@
 [
-  [
+  
   {
     "nom": "Académie SAF",
     "pays": "Congo",
@@ -25,7 +25,7 @@
     "desc": "Formation certifiante en cosmétique naturelle.",
     "tel": "243000000000"
   }
-]
+
   {
     "nom": "Académie SAF",
     "type": "Formateur",
