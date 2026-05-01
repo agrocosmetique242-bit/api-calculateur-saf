@@ -1,0 +1,17 @@
+{
+  "Olive": {
+    "name": "Huile d'Olive",
+    "sap": 0.135,
+    "prop": { "hard": 17, "clean": 0, "cond": 82, "bub": 0, "cream": 17 }
+  },
+  "Coco": {
+    "name": "Huile de Coco",
+    "sap": 0.183,
+    "prop": { "hard": 79, "clean": 67, "cond": 10, "bub": 67, "cream": 12 }
+  },
+  "Karite": {
+    "name": "Beurre de Karité",
+    "sap": 0.128,
+    "prop": { "hard": 42, "clean": 0, "cond": 54, "bub": 0, "cream": 4 }
+  }
+}
