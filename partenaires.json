@@ -1,16 +1,24 @@
 [
   {
-    "nom": "desty kiba",
-    "type": "Fournisseur",
-    "ville": "Pointe-Noire, Congo",
-    "desc": "Spécialiste de la Soude Caustique pure et huiles végétales.",
-    "tel": "242060000000"
-  },
-  {
     "nom": "Académie SAF",
     "type": "Formateur",
     "ville": "Brazzaville, Congo",
     "desc": "Apprenez les techniques avancées de saponification.",
     "tel": "242050000000"
+  },
+  {
+    "nom": "Boutique Bio Nature",
+    "vip": "oui",
+    "type": "desty kiba VIP",
+    "ville": "Pointe-Noire, Congo",
+    "desc": "Spécialiste de la Soude Caustique pure et huiles végétales.",
+    "tel": "242060000000"
+  },
+  {
+    "nom": "Emballages & Moules 242",
+    "type": "Vendeur Accessoires",
+    "ville": "Dolisie, Congo",
+    "desc": "Moules en silicone professionnels, tampons personnalisés et boîtes kraft.",
+    "tel": "242040000000"
   }
 ]
