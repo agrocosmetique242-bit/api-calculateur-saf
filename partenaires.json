@@ -8,6 +8,14 @@
     "ville": "Dolisie",
     "desc": "Expert en saponification à froid. Formation et accompagnement sur mesure.",
     "tel": "242065252642"
+  },
+ {
+    "nom": "vendeurplusboost",
+    "vip": "oui"
+    "pays": "Congo",
+    "type": "Vendeur VIP",
+    "ville": "Dolisie",
+    "desc": "Expert en saponification à froid. Formation et accompagnement sur mesure.",
+    "tel": "242065252642"
   }
- 
 ]
