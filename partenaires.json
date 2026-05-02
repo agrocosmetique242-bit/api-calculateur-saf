@@ -1,13 +1,5 @@
 [
- {
-    "nom": "Artisan Créateur",
-    "vip": "oui",
-    "pays": "Gabon",
-    "type": "Formateur VIP",
-    "ville": "Pointe-Noire",
-    "desc": "Expert en saponification à froid. Formation et accompagnement sur mesure.",
-    "tel": "242065252642"
-  },
+
  {
     "nom": "Artisan Créateur",
     "vip": "oui",
@@ -23,7 +15,7 @@
     "type": "Formateur",
     "ville": "Libreville",
     "desc": "Apprenez les techniques de saponification avancées.",
-    "tel": "242050000000"
+    "tel": "242050004000"
   },
   {
     "nom": "Boutique Bio Nature",
