@@ -19,11 +19,11 @@
   },
   {
     "id": 3,
-    "vendeur": "Vendeurs+Boost",
-    "message": "Formation en ligne : Apprenez la SAF partout !",
+    "vendeur": "Contacter l'assistance commerciale :",
+    "message": "en cliquant sur ce message",
     "pays": "tous",
     "couleur": "#4A6741",
     "lien": "https://wa.me/242065252642",
-    "statut": "off"
+    "statut": "on"
   }
 ]
