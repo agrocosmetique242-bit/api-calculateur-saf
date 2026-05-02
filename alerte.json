@@ -2,25 +2,28 @@
   {
     "id": 1,
     "vendeur": "Bio Nature",
-    "message": "CG Promo exclusive Pointe-Noire : -20% sur la soude !",
+    "message": "Promo exclusive : -20% sur la soude à Pointe-Noire !",
     "pays": "CG",
     "couleur": "#E07A5F",
-    "lien": "https://wa.me/242065252642"
+    "lien": "https://wa.me/242065252642",
+    "statut": "on"
   },
   {
     "id": 2,
     "vendeur": "Ivoire Chimie",
-    "message": "🇨🇮 Arrivage de moules à Abidjan ce samedi.",
-    "pays": "CG",
+    "message": "Arrivage de moules à Abidjan ce samedi.",
+    "pays": "CI",
     "couleur": "#2563eb",
-    "lien": "https://wa.me/225XXXXXXXX"
+    "lien": "https://wa.me/225XXXXXXXX",
+    "statut": "off"
   },
   {
     "id": 3,
     "vendeur": "Vendeurs+Boost",
-    "message": "🚀 Formation en ligne : Apprenez la SAF partout !",
+    "message": "Formation en ligne : Apprenez la SAF partout !",
     "pays": "tous",
     "couleur": "#4A6741",
-    "lien": "https://wa.me/242065252642"
+    "lien": "https://wa.me/242065252642",
+    "statut": "on"
   }
 ]
