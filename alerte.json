@@ -2,15 +2,25 @@
   {
     "id": 1,
     "vendeur": "Bio Nature",
-    "message": "🔥 Promotion Flash : -20% sur la soude caustique !",
+    "message": "🔥 Promo Congo : -20% sur la soude à Pointe-Noire !",
+    "pays": "Congo",
     "couleur": "#E07A5F",
     "lien": "https://wa.me/242065252642"
   },
   {
     "id": 2,
-    "vendeur": "Vendeurs+Boost",
-    "message": "🚀 Nouveaux moules disponibles à Pointe-Noire.",
+    "vendeur": "Ivoire Chimie",
+    "message": "🇨🇮 Arrivage de moules à Abidjan ce samedi.",
+    "pays": "Cote d'Ivoire",
     "couleur": "#2563eb",
+    "lien": "https://wa.me/225XXXXXXXX"
+  },
+  {
+    "id": 3,
+    "vendeur": "Vendeurs+Boost",
+    "message": "🚀 Formation en ligne : Apprenez la SAF partout !",
+    "pays": "tous",
+    "couleur": "#4A6741",
     "lien": "https://wa.me/242065252642"
   }
 ]
