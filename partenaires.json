@@ -11,11 +11,11 @@
   },
  {
     "nom": "vendeurplusboost",
-    "vip": "oui"
+    "vip": "oui",
     "pays": "Congo",
     "type": "Vendeur VIP",
     "ville": "NKAYI",
     "desc": "Expert en saponification à froid. Formation et accompagnement sur mesure.",
     "tel": "242065252642"
-  },
+  }
 ]
