@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "vendeur": "Bio Nature",
+    "message": "🔥 Promotion Flash : -20% sur la soude caustique !",
+    "couleur": "#E07A5F",
+    "lien": "https://wa.me/242065252642"
+  },
+  {
+    "id": 2,
+    "vendeur": "Vendeurs+Boost",
+    "message": "🚀 Nouveaux moules disponibles à Pointe-Noire.",
+    "couleur": "#2563eb",
+    "lien": "https://wa.me/242065252642"
+  }
+]
