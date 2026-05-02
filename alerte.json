@@ -2,8 +2,8 @@
   {
     "id": 1,
     "vendeur": "Bio Nature",
-    "message": "🔥 Promo Congo : -20% sur la soude à Pointe-Noire !",
-    "pays": "Congo",
+    "message": "🔥 Promo exclusive Pointe-Noire : -20% sur la soude !",
+    "pays": "CG",
     "couleur": "#E07A5F",
     "lien": "https://wa.me/242065252642"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "vendeur": "Ivoire Chimie",
     "message": "🇨🇮 Arrivage de moules à Abidjan ce samedi.",
-    "pays": "Cote d'Ivoire",
+    "pays": "CI",
     "couleur": "#2563eb",
     "lien": "https://wa.me/225XXXXXXXX"
   },
