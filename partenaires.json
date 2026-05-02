@@ -8,38 +8,6 @@
     "ville": "Paris",
     "desc": "Expert en saponification à froid. Formation et accompagnement sur mesure.",
     "tel": "242065252642"
-  },
-  {
-    "nom": "Académie SAF",
-    "pays": "Gabon",
-    "type": "Formateur",
-    "ville": "Libreville",
-    "desc": "Apprenez les techniques de saponification avancées.",
-    "tel": "242050004000"
-  },
-  {
-    "nom": "Boutique Bio Nature",
-    "vip": "oui",
-    "pays": "Congo",
-    "type": "Fournisseur VIP",
-    "ville": "Pointe-Noire",
-    "desc": "Spécialiste de la Soude Caustique pure et huiles végétales.",
-    "tel": "242060000000"
-  },
-  {
-    "nom": "Expert Savon RDC",
-    "pays": "RDC",
-    "type": "Formateur",
-    "ville": "Kinshasa",
-    "desc": "Formation certifiante en cosmétique naturelle.",
-    "tel": "243000000000"
-  },
-  {
-    "nom": "Emballages & Moules 242",
-    "pays": "Congo",
-    "type": "Vendeur Accessoires",
-    "ville": "Dolisie",
-    "desc": "Moules en silicone professionnels, tampons personnalisés et boîtes kraft.",
-    "tel": "242040000000"
   }
+ 
 ]
