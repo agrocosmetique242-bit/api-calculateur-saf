@@ -6,7 +6,7 @@
     "pays": "CM",
     "couleur": "#E07A5F",
     "lien": "https://wa.me/242065252642",
-    "statut": "on"
+    "statut": "off"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "pays": "tous",
     "couleur": "#2563eb",
     "lien": "https://wa.me/242055824004",
-    "statut": "on"
+    "statut": "off"
   },
   {
     "id": 3,
