@@ -14,19 +14,304 @@
       "cream": 17
     }
   },
-  "Baobab": {
-    "name": "Huile de Baobab",
-    "sapNaOH": 0.138,
-    "sapKOH": 0.193,
-    "peau": "Très sèches, Tirées",
-    "usage": "5% à 15%",
-    "info": "Excellente huile africaine, très cicatrisante et apaisante.",
+  "Coco": {
+    "name": "Huile de Coco",
+    "sapNaOH": 0.183,
+    "sapKOH": 0.257,
+    "peau": "Normales, Grasses",
+    "usage": "15% à 30%",
+    "info": "Pouvoir moussant et lavant très fort.",
     "prop": {
-      "hard": 25,
+      "hard": 79,
+      "clean": 67,
+      "cond": 10,
+      "bub": 67,
+      "cream": 12
+    }
+  },
+  "Karite": {
+    "name": "Beurre de Karité",
+    "sapNaOH": 0.128,
+    "sapKOH": 0.180,
+    "peau": "Très sèches, Abîmées",
+    "usage": "5% à 20%",
+    "info": "Nourrit intensément et durcit le savon.",
+    "prop": {
+      "hard": 42,
+      "clean": 0,
+      "cond": 54,
+      "bub": 0,
+      "cream": 4
+    }
+  },
+  "Palmiste": {
+    "name": "Huile de Palmiste",
+    "sapNaOH": 0.176,
+    "sapKOH": 0.247,
+    "peau": "Toutes",
+    "usage": "15% à 30%",
+    "info": "Excellente mousse, alternative locale au coco.",
+    "prop": {
+      "hard": 82,
+      "clean": 73,
+      "cond": 10,
+      "bub": 73,
+      "cream": 14
+    }
+  },
+  "Palme": {
+    "name": "Huile de Palme",
+    "sapNaOH": 0.142,
+    "sapKOH": 0.199,
+    "peau": "Toutes",
+    "usage": "20% à 40%",
+    "info": "Donne de la dureté et de la tenue.",
+    "prop": {
+      "hard": 50,
+      "clean": 1,
+      "cond": 49,
+      "bub": 1,
+      "cream": 49
+    }
+  },
+  "Ricin": {
+    "name": "Huile de Ricin",
+    "sapNaOH": 0.128,
+    "sapKOH": 0.180,
+    "peau": "Sèches",
+    "usage": "5% à 10%",
+    "info": "Booste la mousse et attire l'hydratation.",
+    "prop": {
+      "hard": 0,
+      "clean": 0,
+      "cond": 90,
+      "bub": 90,
+      "cream": 90
+    }
+  },
+  "Avocat": {
+    "name": "Huile d'Avocat",
+    "sapNaOH": 0.133,
+    "sapKOH": 0.187,
+    "peau": "Matures, Sèches",
+    "usage": "5% à 15%",
+    "info": "Savon très onctueux.",
+    "prop": {
+      "hard": 22,
       "clean": 0,
       "cond": 70,
-      "bub": 5,
-      "cream": 20
+      "bub": 0,
+      "cream": 19
+    }
+  },
+  "Amande": {
+    "name": "Huile d'Amande Douce",
+    "sapNaOH": 0.136,
+    "sapKOH": 0.191,
+    "peau": "Bébés, Sensibles",
+    "usage": "5% à 10%",
+    "info": "Très apaisante.",
+    "prop": {
+      "hard": 12,
+      "clean": 0,
+      "cond": 83,
+      "bub": 0,
+      "cream": 12
+    }
+  },
+  "Arachide": {
+    "name": "Huile d'Arachide",
+    "sapNaOH": 0.136,
+    "sapKOH": 0.191,
+    "peau": "Sèches",
+    "usage": "10% à 20%",
+    "info": "Riche et hydratante.",
+    "prop": {
+      "hard": 22,
+      "clean": 0,
+      "cond": 77,
+      "bub": 0,
+      "cream": 22
+    }
+  },
+  "Argan": {
+    "name": "Huile d'Argan",
+    "sapNaOH": 0.136,
+    "sapKOH": 0.191,
+    "peau": "Matures",
+    "usage": "5% à 10%",
+    "info": "Précieuse et réparatrice.",
+    "prop": {
+      "hard": 18,
+      "clean": 0,
+      "cond": 81,
+      "bub": 0,
+      "cream": 18
+    }
+  },
+  "Babassu": {
+    "name": "Huile de Babassu",
+    "sapNaOH": 0.175,
+    "sapKOH": 0.245,
+    "peau": "Toutes",
+    "usage": "10% à 30%",
+    "info": "Alternative parfaite au Coco.",
+    "prop": {
+      "hard": 74,
+      "clean": 61,
+      "cond": 15,
+      "bub": 61,
+      "cream": 12
+    }
+  },
+  "Cacao": {
+    "name": "Beurre de Cacao",
+    "sapNaOH": 0.137,
+    "sapKOH": 0.192,
+    "peau": "Sèches",
+    "usage": "5% à 15%",
+    "info": "Durcit fortement le savon.",
+    "prop": {
+      "hard": 61,
+      "clean": 0,
+      "cond": 38,
+      "bub": 0,
+      "cream": 0
+    }
+  },
+  "Chanvre": {
+    "name": "Huile de Chanvre",
+    "sapNaOH": 0.135,
+    "sapKOH": 0.190,
+    "peau": "Sensibles",
+    "usage": "5% à 10%",
+    "info": "Trace très rapide.",
+    "prop": {
+      "hard": 0,
+      "clean": 0,
+      "cond": 95,
+      "bub": 0,
+      "cream": 0
+    }
+  },
+  "Colza": {
+    "name": "Huile de Colza",
+    "sapNaOH": 0.124,
+    "sapKOH": 0.174,
+    "peau": "Toutes",
+    "usage": "5% à 15%",
+    "info": "Très économique.",
+    "prop": {
+      "hard": 12,
+      "clean": 0,
+      "cond": 85,
+      "bub": 0,
+      "cream": 12
+    }
+  },
+  "Jojoba": {
+    "name": "Huile de Jojoba",
+    "sapNaOH": 0.069,
+    "sapKOH": 0.097,
+    "peau": "Mixtes, Grasses",
+    "usage": "2% à 5%",
+    "info": "Régulatrice de sébum.",
+    "prop": {
+      "hard": 11,
+      "clean": 0,
+      "cond": 83,
+      "bub": 0,
+      "cream": 11
+    }
+  },
+  "Macadamia": {
+    "name": "Huile de Macadamia",
+    "sapNaOH": 0.139,
+    "sapKOH": 0.195,
+    "peau": "Sensibles",
+    "usage": "5% à 15%",
+    "info": "Très pénétrante.",
+    "prop": {
+      "hard": 21,
+      "clean": 0,
+      "cond": 78,
+      "bub": 0,
+      "cream": 21
+    }
+  },
+  "Mangue": {
+    "name": "Beurre de Mangue",
+    "sapNaOH": 0.128,
+    "sapKOH": 0.180,
+    "peau": "Très sèches",
+    "usage": "5% à 15%",
+    "info": "Nourrit intensément.",
+    "prop": {
+      "hard": 49,
+      "clean": 0,
+      "cond": 50,
+      "bub": 0,
+      "cream": 6
+    }
+  },
+  "Neem": {
+    "name": "Huile de Neem",
+    "sapNaOH": 0.139,
+    "sapKOH": 0.195,
+    "peau": "Problèmes",
+    "usage": "2% à 5%",
+    "info": "Antifongique et antibactérienne puissante.",
+    "prop": {
+      "hard": 35,
+      "clean": 0,
+      "cond": 60,
+      "bub": 0,
+      "cream": 35
+    }
+  },
+  "Noisette": {
+    "name": "Huile de Noisette",
+    "sapNaOH": 0.136,
+    "sapKOH": 0.191,
+    "peau": "Mixtes",
+    "usage": "5% à 10%",
+    "info": "Toucher sec.",
+    "prop": {
+      "hard": 14,
+      "clean": 0,
+      "cond": 85,
+      "bub": 0,
+      "cream": 14
+    }
+  },
+  "Pepins": {
+    "name": "Huile de Pépins de Raisin",
+    "sapNaOH": 0.126,
+    "sapKOH": 0.177,
+    "peau": "Grasses",
+    "usage": "5%",
+    "info": "Régule le sébum.",
+    "prop": {
+      "hard": 12,
+      "clean": 0,
+      "cond": 83,
+      "bub": 0,
+      "cream": 12
+    }
+  },
+  "Tournesol": {
+    "name": "Huile de Tournesol",
+    "sapNaOH": 0.135,
+    "sapKOH": 0.189,
+    "peau": "Toutes",
+    "usage": "5% à 15%",
+    "info": "Apporte de la douceur.",
+    "prop": {
+      "hard": 11,
+      "clean": 0,
+      "cond": 88,
+      "bub": 0,
+      "cream": 11
     }
   }
 }
