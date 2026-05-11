@@ -1,186 +1,32 @@
 {
   "Olive": {
     "name": "Huile d'Olive",
-    "sap": 0.135,
-    "peau": "Sensibles, Sèches, Bébé",
+    "sapNaOH": 0.135,
+    "sapKOH": 0.190,
+    "peau": "Sèches, Sensibles",
     "usage": "Jusqu'à 100%",
-    "info": "La base du savon de Castille. Douceur extrême.",
-    "prop": { "hard": 17, "clean": 0, "cond": 82, "bub": 0, "cream": 17 }
-  },
-  "Coco": {
-    "name": "Huile de Coco",
-    "sap": 0.183,
-    "peau": "Normales, Grasses",
-    "usage": "15% à 30%",
-    "info": "Apporte dureté et une mousse lavante abondante.",
-    "prop": { "hard": 79, "clean": 67, "cond": 10, "bub": 67, "cream": 12 }
-  },
-  "Karite": {
-    "name": "Beurre de Karité",
-    "sap": 0.128,
-    "peau": "Très sèches, Abîmées",
-    "usage": "5% à 20%",
-    "info": "Incontournable africain. Nourrit et durcit le savon.",
-    "prop": { "hard": 42, "clean": 0, "cond": 54, "bub": 0, "cream": 4 }
-  },
-  "Palmiste": {
-    "name": "Huile de Palmiste",
-    "sap": 0.176,
-    "peau": "Normales, Grasses",
-    "usage": "15% à 30%",
-    "info": "L'alternative locale au Coco pour la mousse.",
-    "prop": { "hard": 82, "clean": 73, "cond": 10, "bub": 73, "cream": 14 }
-  },
-  "Palme": {
-    "name": "Huile de Palme",
-    "sap": 0.142,
-    "peau": "Tous types",
-    "usage": "20% à 40%",
-    "info": "Donne une excellente structure et une tenue durable.",
-    "prop": { "hard": 50, "clean": 1, "cond": 49, "bub": 1, "cream": 49 }
-  },
-  "Ricin": {
-    "name": "Huile de Ricin",
-    "sap": 0.128,
-    "peau": "Sèches, Cheveux",
-    "usage": "5% à 10%",
-    "info": "Booste et stabilise la mousse de façon spectaculaire.",
-    "prop": { "hard": 0, "clean": 0, "cond": 90, "bub": 90, "cream": 90 }
-  },
-  "Avocat": {
-    "name": "Huile d'Avocat",
-    "sap": 0.133,
-    "peau": "Matures, Très sèches",
-    "usage": "5% à 15%",
-    "info": "Riche en vitamines. Donne un savon onctueux.",
-    "prop": { "hard": 22, "clean": 0, "cond": 70, "bub": 0, "cream": 19 }
-  },
-  "Arachide": {
-    "name": "Huile d'Arachide",
-    "sap": 0.136,
-    "peau": "Normales",
-    "usage": "10% à 20%",
-    "info": "Économique, elle donne une mousse fine.",
-    "prop": { "hard": 11, "clean": 0, "cond": 77, "bub": 0, "cream": 11 }
-  },
-  "Tournesol": {
-    "name": "Huile de Tournesol",
-    "sap": 0.135,
-    "peau": "Sèches",
-    "usage": "5% à 15%",
-    "info": "Apporte de la douceur. À utiliser avec des beurres durs.",
-    "prop": { "hard": 3, "clean": 0, "cond": 91, "bub": 0, "cream": 3 }
-  },
-  "Colza": {
-    "name": "Huile de Colza",
-    "sap": 0.133,
-    "peau": "Tous types",
-    "usage": "10% à 20%",
-    "info": "Donne de la souplesse et une mousse crémeuse.",
-    "prop": { "hard": 6, "clean": 0, "cond": 88, "bub": 0, "cream": 6 }
-  },
-  "AmandeDouce": {
-    "name": "Huile d'Amande Douce",
-    "sap": 0.139,
-    "peau": "Bébés, Délicates",
-    "usage": "5% à 10%",
-    "info": "Adoucissante et apaisante.",
-    "prop": { "hard": 7, "clean": 0, "cond": 87, "bub": 0, "cream": 7 }
-  },
-  "Cacao": {
-    "name": "Beurre de Cacao",
-    "sap": 0.137,
-    "peau": "Sèches, Normales",
-    "usage": "5% à 15%",
-    "info": "Durcit énormément le savon. Odeur gourmande.",
-    "prop": { "hard": 61, "clean": 0, "cond": 38, "bub": 0, "cream": 61 }
-  },
-  "Mangue": {
-    "name": "Beurre de Mangue",
-    "sap": 0.135,
-    "peau": "Matures, Ternes",
-    "usage": "5% à 15%",
-    "info": "Émollient et régénérant. Toucher soyeux.",
-    "prop": { "hard": 49, "clean": 0, "cond": 48, "bub": 0, "cream": 43 }
-  },
-  "Neem": {
-    "name": "Huile de Neem",
-    "sap": 0.139,
-    "peau": "Problèmes, Acné",
-    "usage": "2% à 5%",
-    "info": "Puissant antibactérien. Odeur très forte.",
-    "prop": { "hard": 30, "clean": 0, "cond": 50, "bub": 10, "cream": 20 }
-  },
-  "Moringa": {
-    "name": "Huile de Moringa",
-    "sap": 0.135,
-    "peau": "Toutes",
-    "usage": "5% à 15%",
-    "info": "Trésor nutritif. Savon très haut de gamme.",
-    "prop": { "hard": 20, "clean": 0, "cond": 80, "bub": 0, "cream": 10 }
-  },
-  "Nigelle": {
-    "name": "Huile de Nigelle",
-    "sap": 0.135,
-    "peau": "Irritées, Problèmes",
-    "usage": "5% à 10%",
-    "info": "L'or noir des pharaons. Très curative.",
-    "prop": { "hard": 5, "clean": 0, "cond": 90, "bub": 0, "cream": 5 }
+    "info": "Apporte une douceur extrême au savon.",
+    "prop": {
+      "hard": 17,
+      "clean": 0,
+      "cond": 82,
+      "bub": 0,
+      "cream": 17
+    }
   },
   "Baobab": {
     "name": "Huile de Baobab",
-    "sap": 0.143,
-    "peau": "Très sèches",
+    "sapNaOH": 0.138,
+    "sapKOH": 0.193,
+    "peau": "Très sèches, Tirées",
     "usage": "5% à 15%",
-    "info": "Extrêmement hydratante et cicatrisante.",
-    "prop": { "hard": 30, "clean": 0, "cond": 70, "bub": 0, "cream": 20 }
-  },
-  "Sesame": {
-    "name": "Huile de Sésame",
-    "sap": 0.133,
-    "peau": "Tous types",
-    "usage": "5% à 15%",
-    "info": "Restructurante. Donne une mousse fine.",
-    "prop": { "hard": 13, "clean": 0, "cond": 82, "bub": 0, "cream": 13 }
-  },
-  "Saindoux": {
-    "name": "Saindoux (Porc)",
-    "sap": 0.138,
-    "peau": "Tous types",
-    "usage": "10% à 30%",
-    "info": "Graisse animale classique. Savon blanc et dur.",
-    "prop": { "hard": 41, "clean": 1, "cond": 57, "bub": 1, "cream": 40 }
-  },
-  "SuifBoeuf": {
-    "name": "Suif (Bœuf)",
-    "sap": 0.140,
-    "peau": "Tous types",
-    "usage": "20% à 40%",
-    "info": "Très utilisé autrefois. Savon très dur et crémeux.",
-    "prop": { "hard": 58, "clean": 8, "cond": 34, "bub": 8, "cream": 50 }
-  },
-  "BeurreGhee": {
-    "name": "Beurre Clarifié (Ghee)",
-    "sap": 0.162,
-    "peau": "Très sèches",
-    "usage": "5% à 10%",
-    "info": "Riche et luxueux. Attention à l'odeur.",
-    "prop": { "hard": 65, "clean": 30, "cond": 30, "bub": 30, "cream": 35 }
-  },
-  "Abricot": {
-    "name": "Huile de Noyau d'Abricot",
-    "sap": 0.135,
-    "peau": "Ternes, Fatiguées",
-    "usage": "5% à 15%",
-    "info": "Illumine le teint. Très douce.",
-    "prop": { "hard": 3, "clean": 0, "cond": 91, "bub": 0, "cream": 3 }
-  },
-  "Argan": {
-    "name": "Huile d'Argan",
-    "sap": 0.136,
-    "peau": "Matures, Sèches",
-    "usage": "5% à 10%",
-    "info": "Le luxe marocain. Antioxydante.",
-    "prop": { "hard": 14, "clean": 0, "cond": 80, "bub": 0, "cream": 14 }
+    "info": "Excellente huile africaine, très cicatrisante et apaisante.",
+    "prop": {
+      "hard": 25,
+      "clean": 0,
+      "cond": 70,
+      "bub": 5,
+      "cream": 20
+    }
   }
 }
