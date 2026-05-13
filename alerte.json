@@ -2,11 +2,11 @@
   {
     "id": 1,
     "vendeur": "Bio Nature",
-    "message": "Promo exclusive : -20% sur la soude à Pointe-Noire !",
+    "message": "Promo exclusive : -20% sur la soude à Brazzaville !",
     "pays": "CG",
     "couleur": "#E07A5F",
     "lien": "https://wa.me/242065252642",
-    "statut": "off"
+    "statut": "on"
   },
   {
     "id": 2,
